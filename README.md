@@ -37,4 +37,4 @@ The model predicts temperature and humidity with good accuracy, but precipitatio
 
 ## License
 
-This project is for
+This project is for educational purposes.
