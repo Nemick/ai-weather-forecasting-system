@@ -60,7 +60,7 @@ Predict the following weather parameters:
 
 ## 🖼️ Sample Output
 
-![forecast\_plot](forecast_plot.png)
+![forecast\_plot](sampled_forecast_plot.png)
 
 ---
 
